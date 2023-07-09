@@ -1,0 +1,64 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 4,
+  "numPassedTests": 4,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1688746718484,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " No info of questions should be visible by default",
+          "status": "passed",
+          "title": "No info of questions should be visible by default",
+          "duration": 59,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " All button values should be \"+\" by default",
+          "status": "passed",
+          "title": "All button values should be \"+\" by default",
+          "duration": 7,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " SingleQuestion",
+          "status": "passed",
+          "title": "SingleQuestion",
+          "duration": 9,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " SingleQuestion",
+          "status": "passed",
+          "title": "SingleQuestion",
+          "duration": 3,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1688746726179,
+      "endTime": 1688746726258,
+      "status": "passed",
+      "message": "",
+      "name": "/home/damner/code/__labtests/reactcheck.test.jsx"
+    }
+  ]
+}
